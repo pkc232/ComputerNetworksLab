@@ -1,0 +1,3 @@
+string add="";
+dd+="socket";
+add+=to_string(myNumber);
